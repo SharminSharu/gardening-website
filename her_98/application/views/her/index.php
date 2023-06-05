@@ -1,0 +1,9 @@
+<?php $this->load->view('her/head')?>
+<?php $this->load->view('her/carousel')?>
+<?php $this->load->view('her/feature')?>
+<?php $this->load->view('her/about')?>
+<?php $this->load->view('her/feature_2')?>
+<?php $this->load->view('her/services')?>
+<?php $this->load->view('her/team')?>
+<?php $this->load->view('her/testimonial')?>
+<?php $this->load->view('her/foot')?>
